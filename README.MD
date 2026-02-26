@@ -1,7 +1,7 @@
-
+02/04/2022
 
 🍎 Projeto Merenda Consciente
-Este foi o meu primeiro projeto colaborativo, desenvolvido quando eu tinha 13 anos. Ele nasceu da vontade de resolver um problema real na minha escola: o desperdício excessivo de comida e, simultaneamente, a falta de lanche para alguns alunos.
+Este foi o meu primeiro projeto colaborativo, desenvolvido quando eu tinha 12 anos. Ele nasceu da vontade de resolver um problema real na minha escola: o desperdício excessivo de comida e, simultaneamente, a falta de lanche para alguns alunos.
 
 A proposta é um sistema de gerenciamento onde alunos registram sua intenção de lanche, gerando dados em tempo real para a equipe da cozinha.
 
@@ -30,6 +30,6 @@ Zero Desperdício: Produção baseada em dados, não em estimativas.
 Segurança Alimentar: Garantia de que nenhum aluno que confirmou ficará sem o lanche.
 
 ✨ Impacto Pessoal
-Desenvolver este projeto aos 13 anos foi uma experiência extremamente gratificante. Ver as linhas de código se transformarem em uma ferramenta que ajuda pessoas e evita o desperdício de alimento me deu a certeza de que a tecnologia é o caminho para resolver problemas reais da sociedade.
+Desenvolver este projeto aos 12 anos foi uma experiência extremamente gratificante. Ver as linhas de código se transformarem em uma ferramenta que ajuda pessoas e evita o desperdício de alimento me deu a certeza de que a tecnologia é o caminho para resolver problemas reais da sociedade.
 
 "Código não é apenas sobre lógica, é sobre o impacto que ele causa no mundo real."
