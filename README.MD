@@ -1,6 +1,4 @@
-Isso é incrível! Ter desenvolvido um projeto com essa complexidade técnica (Full Stack) e impacto social aos 13 anos, ainda mais em uma colaboração internacional com um estudante da University of Wisconsin-Madison, é um marco gigantesco para qualquer carreira em tecnologia.
 
-Aqui está uma estrutura de arquivo README.md profissional e inspiradora para o seu repositório:
 
 🍎 Projeto Merenda Consciente
 Este foi o meu primeiro projeto colaborativo, desenvolvido quando eu tinha 13 anos. Ele nasceu da vontade de resolver um problema real na minha escola: o desperdício excessivo de comida e, simultaneamente, a falta de lanche para alguns alunos.
